@@ -1,3 +1,5 @@
+
+
 # Password Generator
 
 ## About the Project
@@ -37,7 +39,9 @@ Through this project, I practised:
 - Building strings dynamically.
 
 ## Game Demonstration
-Here is a short video demonstrating the password generation process.
+Here is a short video demonstrating the password generation process:
+
+https://github.com/user-attachments/assets/a599a616-0ff5-4509-9d18-bc19e4cf48b4
 
 ## Author
 Created by Alijamal Jamal-zada.
